@@ -1,0 +1,17 @@
+.pagination {
+    margin: 0 auto;
+}
+
+.main_episode_table {
+    max-width: 1200px;
+    min-width: 600px;
+    margin: 0 auto;
+}
+
+.main_episodes {
+    margin: 0 auto;
+}
+
+.input_fields {
+    margin: 20px;
+}

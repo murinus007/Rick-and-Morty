@@ -1,0 +1,13 @@
+
+.character_card {
+    margin: 0 auto;
+    margin-top: 15px;
+    background-color: rgb(159, 153, 202);
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+}
+
+.character_card img {
+    padding: 40px;
+}

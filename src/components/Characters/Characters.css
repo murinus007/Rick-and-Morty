@@ -1,0 +1,16 @@
+.character_list {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;
+}
+
+.btns {
+    margin: 0 auto;
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.sort_btns {
+    margin-top: 25px;
+}
